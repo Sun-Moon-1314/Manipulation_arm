@@ -1,0 +1,7 @@
+*.log
+videos
+07-Mobile-Manipulation/
+09-Object-Detection-and-Segmentation
+10-Deep-Perception-for-Manipulation
+11-Reinforcement-Learning
+.vscode/
