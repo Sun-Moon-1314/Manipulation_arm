@@ -1,0 +1,13 @@
+{
+    "tests": [
+        {
+            "name": "test_final_pose (manipulation.exercises.pick.test_pickplace_initials.TestPickPlacePoses.test_final_pose)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 1
+}

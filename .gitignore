@@ -5,3 +5,5 @@ videos
 10-Deep-Perception-for-Manipulation
 11-Reinforcement-Learning
 .vscode/
+drake_models/
+robocasa/
